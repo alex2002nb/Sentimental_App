@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+seaborn
+wordcloud
+transformers
+torch
+sentencepiece
+nltk
+openpyxl
